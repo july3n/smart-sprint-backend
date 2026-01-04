@@ -20,5 +20,5 @@ The goal of this project is to build a lightweight, modular backend that:
 - AI is used as a decision-support tool, not as a replacement for business logic
 
 ## Current Status
-🚧 Initial setup and Fastify lifecycle exploration
-🧠
+Initial setup and Fastify lifecycle exploration
+
